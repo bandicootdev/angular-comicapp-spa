@@ -12,6 +12,7 @@ import {HeroesService} from './services/heroes.service';
 import {HeroeComponent} from './components/heroe/heroe.component';
 import {NgxUiLoaderModule} from 'ngx-ui-loader';
 import { BuscadorComponent } from './components/buscador/buscador.component';
+import * as $ from 'jquery';
 
 @NgModule({
   declarations: [
